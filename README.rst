@@ -8,7 +8,7 @@ Change Save & Discard Button style.
 Reference from `web_stave-discard_button <https://apps.odoo.com/apps/modules/16.0/web_save_discard_button>`_ .
 
 
-.. image:: https://raw.githubusercontent.com/OCA/web/16.0/web_save_discard_button/static/description/save_button.png
+.. image:: https://raw.githubusercontent.com/fenglander/leas_web_save_discard_but/master/static/description/save_button.png
 
 
 **Table of contents**
@@ -27,4 +27,4 @@ If you are the first to discover the issue, please help us resolve it by providi
 Contributors & Maintainers
 ===========
 
-*  Fung
+*  Fung<32664699@qq.com>

@@ -9,7 +9,7 @@
         <xpath expr="//button[hasclass('o_form_button_save')]/i" position="after">
             <span class="save_button">Save</span>
         </xpath>
-        <xpath expr="//button/i[hasclass('fa-undo')]" position="after">
+        <xpath expr="//button/i[hasclass('fa-times')]" position="after">
             <span class="discard_button">Discard</span>
         </xpath>
     </t>

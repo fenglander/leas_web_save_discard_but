@@ -1,6 +1,6 @@
 {
     "name": "Leas Save & Discard Buttons",
-    "version": "17.0.0.0.0",
+    "version": "18.0.0.0.0",
     "summary": "Save & Discard Buttons",
     "license": "AGPL-3",
     "category": "Tools",
